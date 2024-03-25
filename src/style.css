@@ -1,0 +1,33 @@
+body {
+  background: radial-gradient(73% 147%, #eadfdf 59%, #ece2df 100%),
+    radial-gradient(
+      91% 146%,
+      rgba(255, 255, 255, 0.5) 47%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+p {
+  text-align: center;
+}
+
+.croissant {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+footer a {
+  margin: 0 20px;
+  color: blue;
+}
